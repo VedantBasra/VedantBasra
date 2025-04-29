@@ -25,7 +25,7 @@
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vedant-basra/)
-- [Portfolio Website](vedantbasra.me)
+- [Portfolio Website](https://vedantbasra.me/)
 
 ---
 
