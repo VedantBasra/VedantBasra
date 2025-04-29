@@ -22,12 +22,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedantBasra&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 - [LinkedIn]([https://www.linkedin.com/in/vedant-basra/])
