@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Vedant Basra
 
-<!--
-**VedantBasra/VedantBasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Studying Computer Science
+- 🛠️ Building full-stack web apps, CLI tools, and automation scripts
+- 🧠 Always learning new technologies — currently exploring Flask, React, and AI projects
+- 🎯 Focused on writing clean, efficient, and scalable code
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, C++, JavaScript
+- **Web**: Flask, HTML, CSS, Semantic UI
+- **Tools**: Git, GitHub, VS Code, Jupyter Notebook
+- **Currently Learning**: ReactJS, Flask APIs, SQL Databases
+
+---
+
+## 📈 GitHub Stats
+
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedantBasra&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn]([https://www.linkedin.com/in/vedant-basra/])
+- [Portfolio Website](vedantbasra.me)
+
+---
+
+> "The only way to do great work is to love what you do." — Steve Jobs
+
