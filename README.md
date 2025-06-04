@@ -16,9 +16,8 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, C++, JavaScript
-- **Web**: Flask, HTML, CSS, Semantic UI
-- **Tools**: Git, GitHub, VS Code, Jupyter Notebook
-- **Currently Learning**: ReactJS, Flask APIs, SQL Databases
+- **Web**: Flask, HTML, CSS, Semantic UI, Tailwind
+- **Tools**: Git, GitHub, VS Code, Jupyter Notebook, FastAPI
 
 ---
 
